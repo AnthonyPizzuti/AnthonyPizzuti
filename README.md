@@ -73,7 +73,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnthonyPizzuti/AnthonyPizzuti/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+![GitHub Snake](https://raw.githubusercontent.com/AnthonyPizzuti/AnthonyPizzuti/output/snake.svg)
 
 ###
 
