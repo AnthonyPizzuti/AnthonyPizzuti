@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm Anthony Pizzuti from Italy but live in Germany.</p>
+<p align="left">Hi, I'm Anthony Pizzuti. I'm a frontend developer currently transitioning into full-stack by wrapping up my backend studies.</p>
 
 ###
 
